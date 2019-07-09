@@ -1,0 +1,1 @@
+Puts "Bonjour, monde!"
